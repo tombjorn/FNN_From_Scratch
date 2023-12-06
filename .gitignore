@@ -2,3 +2,4 @@ venv
 *.csv
 *.npz
 Graphs
+.DS_Store
